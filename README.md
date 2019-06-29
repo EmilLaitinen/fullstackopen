@@ -1,2 +1,3 @@
 # fullstackopen
-Helsingin avoimen yliopiston fullstackopen-kurssi
+Helsingin avoimen yliopiston fullstackopen-kurssin tehtävät
+
